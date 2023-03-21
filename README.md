@@ -6,8 +6,8 @@
 - 🌱 Estudando React 
 - 💻 Cursando Ciência da Computação - UFPA 
 - 📫 contato: clarmendzz@gmail.com
-- 😄 Pronouns: Ela/dela
 - ⚡ Fun fact: Swiftie ✨
+- 
 
 <div align="center">
   <a href="https://github.com/Claricez">
