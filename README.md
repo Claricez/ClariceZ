@@ -7,7 +7,7 @@
 - 💻 Cursando Ciência da Computação - UFPA 
 - 📫 contato: clarmendzz@gmail.com
 - ⚡ Fun fact: Swiftie ✨
-- 
+
 
 <div align="center">
   <a href="https://github.com/Claricez">
