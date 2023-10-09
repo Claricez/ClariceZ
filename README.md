@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando React 
+- 🌱 Estudando UI/UX
 - 💻 Cursando Ciência da Computação - UFPA 
 - 📫 contato: clarmendzz@gmail.com
 - ⚡ Fun fact: Swiftie ✨
