@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando UI/UX
+- 🌱  Aprimorando meus conhecimentos 
 - 💻 Cursando Ciência da Computação - UFPA 
 - 📫 contato: clarmendzz@gmail.com
 - ⚡ Fun fact: Swiftie ✨
